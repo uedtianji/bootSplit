@@ -7,8 +7,8 @@ Bootstrap是目前最受欢迎的前端框架。他功能强大囊括了页面�
 本项目使用的版本为 [Bootstrap v3.3.0](https://github.com/twbs/bootstrap) 
 
 >bootstrap拆分为：  
->样式重置：reset.css  
->按钮：[button.css](https://github.com/uedtianji/bootSplit/tree/master/doc/button)  
->栅格：[grid.css](https://github.com/uedtianji/bootSplit/tree/master/doc/grid)  
->图标字体：[icon.css](https://github.com/uedtianji/bootSplit/tree/master/doc/icon)  
->表格：[table.css](https://github.com/uedtianji/bootSplit/tree/master/doc/table)  
+>样式重置：css/reset.css  
+>按钮：[css/button.css](https://github.com/uedtianji/bootSplit/tree/master/doc/button)  
+>栅格：[css/grid.css](https://github.com/uedtianji/bootSplit/tree/master/doc/grid)  
+>图标字体：[css/icon.css](https://github.com/uedtianji/bootSplit/tree/master/doc/icon)  
+>表格：[css/table.css](https://github.com/uedtianji/bootSplit/tree/master/doc/table)  
