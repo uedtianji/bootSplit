@@ -12,3 +12,5 @@ Bootstrap是目前最受欢迎的前端框架。他功能强大囊括了页面�
 >栅格：[css/grid.css](https://github.com/uedtianji/bootSplit/tree/master/doc/grid)  
 >图标字体：[css/icon.css](https://github.com/uedtianji/bootSplit/tree/master/doc/icon)  
 >表格：[css/table.css](https://github.com/uedtianji/bootSplit/tree/master/doc/table)  
+
+更多教程请访问：[ued.sexy](http://ued.sexy)  
